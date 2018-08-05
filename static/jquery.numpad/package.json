@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jquery.numpad",
+        "scope": null,
+        "escapedName": "jquery.numpad",
+        "name": "jquery.numpad",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Aegir-master"
+    ]
+  ],
+  "_from": "jquery.numpad@latest",
+  "_id": "jquery.numpad@1.3.2",
+  "_inCache": true,
+  "_location": "/jquery.numpad",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "kabachello",
+    "email": "kabachnik@hotmail.com"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jquery.numpad",
+    "scope": null,
+    "escapedName": "jquery.numpad",
+    "name": "jquery.numpad",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery.numpad/-/jquery.numpad-1.3.2.tgz",
+  "_shasum": "dd3345de3586e72889f6e2445c127150a5658f3d",
+  "_shrinkwrap": null,
+  "_spec": "jquery.numpad",
+  "_where": "D:\\Aegir-master",
+  "author": {
+    "name": "Andrej Kabachnik"
+  },
+  "bugs": {
+    "url": "https://github.com/kabachello/jQuery.NumPad/issues"
+  },
+  "dependencies": {},
+  "description": "Touch-optimized numeric on-screen keypad for jQuery",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "dd3345de3586e72889f6e2445c127150a5658f3d",
+    "tarball": "https://registry.npmjs.org/jquery.numpad/-/jquery.numpad-1.3.2.tgz"
+  },
+  "gitHead": "e184d15cdaaf0c8c0e429871b58aa72c77be43b0",
+  "homepage": "http://a.kabachnik.info/jquery-numpad.html",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "keyboard",
+    "keypad",
+    "numeric",
+    "input"
+  ],
+  "license": "MIT",
+  "main": "jquery.numpad.js",
+  "maintainers": [
+    {
+      "name": "kabachello",
+      "email": "kabachnik@hotmail.com"
+    }
+  ],
+  "name": "jquery.numpad",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabachello/jQuery.NumPad.git"
+  },
+  "scripts": {},
+  "version": "1.3.2"
+}

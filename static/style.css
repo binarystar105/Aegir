@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+html,body{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.logo, .title{
+  height: 200px;
+}
+
+.logo{
+  background: url(../static/ETI_logo.jpg) no-repeat center/40%
+}
+
+.boxes{
+  color: white;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.boxes:nth-child(1){
+  background-color: #71677C;
+}
+
+.boxes:nth-child(2){
+  background-color: #62466B;
+}
+
+.boxes:nth-child(3){
+  background-color: #F46036;
+}
+
+.boxes .btn{
+  color:black;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.btn {
+  font-weight: bold;
+}
+
+.modal-content{
+  width: 200px;
+}
